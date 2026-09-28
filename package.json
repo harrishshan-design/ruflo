@@ -88,7 +88,7 @@
     "tar": ">=7.5.11",
     "picomatch": ">=4.0.3",
     "path-to-regexp": ">=8.2.1",
-    "undici": ">=8.5.0",
+    "undici": ">=8.11.2",
     "minimatch": ">=10.0.0",
     "@isaacs/brace-expansion": ">=5.0.1",
     "cacache": ">=20.0.0",
